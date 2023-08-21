@@ -4,7 +4,7 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello,world!");
 
 /*  
 Next, PLAY! 
@@ -20,3 +20,14 @@ Modify your code on line 7 to try to accomplish the tasks listed below:
    8. Print a message that contains quote marks, such as Quoth the Raven "Nevermore".
    9. Other. You choose!
 */
+console.log("New Message");
+
+console.log('New Message1');
+
+console.log(1);
+
+console.log("Addition: "+(1+2));
+
+console.log('New Message3'+'  New Message4');
+
+console.log('\"Nevermore\"');
